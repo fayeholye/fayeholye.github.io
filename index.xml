@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wangfei</title>
+    <link>https://fayeholye.github.io/</link>
+    <description>Recent content on Wangfei</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://fayeholye.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+      <title>21700 High power cell</title>
+      <link>https://fayeholye.github.io/21700-page/</link>
+      <pubDate>Sun, 13 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://fayeholye.github.io/21700-page/</guid>
+      <description>&lt;div style=&#34;
+    padding: 20px; /* 给内容留出内边距 */
+    color: white; /* 设置文本颜色，以确保可读性 */
+    position: relative; /* 为绝对定位提供参考 */
+    text-align: center; /* 居中对齐内容 */
+&#34;&gt;
+  &lt;!-- 将图片作为内容添加 --&gt;
+&lt;p&gt;&lt;img src=&#34;https://fayeholye.github.io/images/projects/21700.png&#34; alt=&#34;26105 NCM 电芯&#34; style=&#34;
+width: 80%; /* 图片宽度100%，自适应父元素 */
+max-height: 400px; /* 设置最大高度 */
+object-fit: cover; /* 确保图片覆盖整个区域 */
+height: auto; /* 高度自适应 */
+border-radius: 10px; /* 设置边角的圆角 */
+&#34;&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;span-stylefont-size-20px-font-weight-bold-color-0000ff1-capacityspan&#34;&gt;&lt;span style=&#34;font-size: 20px; font-weight: bold; color: #0000FF;&#34;&gt;1. Capacity&lt;/span&gt;&lt;/h2&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+    &lt;img src=&#34;https://fayeholye.github.io/images/projects/21700 CAPACITY.png&#34; alt=&#34;高能量密度示意图&#34; style=&#34;width: 500px; height: auto;&#34;/&gt;  
+    &lt;p style=&#34;font-size: 13px;&#34;&gt;figure 1：0.2C discharge capacity，25℃ &gt;5Ah*&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>26105 NCM cell</title>
+      <link>https://fayeholye.github.io/local-page/</link>
+      <pubDate>Sun, 13 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://fayeholye.github.io/local-page/</guid>
+      <description>&lt;div style=&#34;
+    padding: 20px; /* 给内容留出内边距 */
+    color: white; /* 设置文本颜色，以确保可读性 */
+    position: relative; /* 为绝对定位提供参考 */
+    text-align: center; /* 居中对齐内容 */
+&#34;&gt;
+  &lt;!-- 将图片作为内容添加 --&gt;
+&lt;p&gt;&lt;img src=&#34;https://fayeholye.github.io/images/projects/26105.png&#34; alt=&#34;26105 NCM 电芯&#34; style=&#34;
+width: 100%; /* 图片宽度100%，自适应父元素 */
+max-height: 400px; /* 设置最大高度 */
+object-fit: cover; /* 确保图片覆盖整个区域 */
+height: auto; /* 高度自适应 */
+border-radius: 10px; /* 设置边角的圆角 */
+&#34;&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;span-stylefont-size-20px-font-weight-bold-color-1111-timelinespan&#34;&gt;&lt;span style=&#34;font-size: 20px; font-weight: bold; color: #111;&#34;&gt;1. Timeline&lt;/span&gt;&lt;/h2&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+    &lt;img src=&#34;https://fayeholye.github.io/images/projects/Amgtimeline.png&#34; alt=&#34;高能量密度示意图&#34; style=&#34;width: 800px; height: auto;&#34;/&gt;  
+    &lt;p style=&#34;font-size: 13px;&#34;&gt;figure 1：Timeline*&lt;/p&gt;  
+&lt;/div&gt;
+&lt;h2 id=&#34;span-stylefont-size-20px-font-weight-bold-color-1112-short-specificationspan&#34;&gt;&lt;span style=&#34;font-size: 20px; font-weight: bold; color: #111;&#34;&gt;2. Short Specification&lt;/span&gt;&lt;/h2&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+    &lt;img src=&#34;https://fayeholye.github.io/images/projects/short-spec.png&#34; alt=&#34;高能量密度示意图&#34; style=&#34;width: 500px; height: auto;&#34;/&gt;  
+    &lt;p style=&#34;font-size: 13px;&#34;&gt;figure 2：short specification*&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Key performance</title>
+      <link>https://fayeholye.github.io/26650-page/</link>
+      <pubDate>Sun, 13 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://fayeholye.github.io/26650-page/</guid>
+      <description>&lt;script src=&#34;https://fayeholye.github.io/js/echarts.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://fayeholye.github.io/js/jquery-3.6.3.min.js&#34;&gt;&lt;/script&gt;
+&lt;!-- 第一个ECharts图表 --&gt;
+&lt;div id=&#34;chart1&#34; style=&#34;width: 700px; height: 500px;&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;text/javascript&#34;&gt;
+    var chartDom1 = document.getElementById(&#39;chart1&#39;);
+    var myChart1 = echarts.init(chartDom1);
+    var soc_ocv_data = [
+        {name: &#39;-30°C&#39;, data: [[100, 4.1847], [90, 4.0795], [80, 4.0587], [70, 4.0132], [60, 3.9163], [50, 3.8488], [40, 3.7761], [30, 3.6882], [20, 3.6131], [10, 3.5532], [0, 3.4767]]},
+        {name: &#39;-20°C&#39;, data: [[100, 4.1862], [90, 4.0848], [80, 4.0681], [70, 3.9755], [60, 3.8753], [50, 3.8042], [40, 3.7121], [30, 3.6209], [20, 3.5281], [10, 3.4013], [0, 3.2153]]},
+        {name: &#39;-10°C&#39;, data: [[100, 4.1858], [90, 4.0852], [80, 4.07], [70, 3.9746], [60, 3.8693], [50, 3.7975], [40, 3.7019], [30, 3.5924], [20, 3.5032], [10, 3.3534], [0, 3.1625]]},
+        {name: &#39;0°C&#39;, data: [[100, 4.1852], [90, 4.0859], [80, 4.0689], [70, 3.9636], [60, 3.861], [50, 3.7821], [40, 3.6789], [30, 3.5562], [20, 3.4636], [10, 3.2898], [0, 3.0754]]},
+        {name: &#39;10°C&#39;, data: [[100, 4.1825], [90, 4.0874], [80, 4.0653], [70, 3.9509], [60, 3.85], [50, 3.7643], [40, 3.6512], [30, 3.538], [20, 3.429], [10, 3.2333], [0, 2.9263]]},
+        {name: &#39;25°C&#39;, data: [[100, 4.1758], [90, 4.0878], [80, 4.061], [70, 3.9352], [60, 3.848], [50, 3.75], [40, 3.6195], [30, 3.5231], [20, 3.3843], [10, 3.1826], [0, 2.7084]]},
+        {name: &#39;45°C&#39;, data: [[100, 4.1758], [90, 4.0878], [80, 4.061], [70, 3.9352], [60, 3.848], [50, 3.75], [40, 3.6195], [30, 3.5231], [20, 3.3843], [10, 3.1826], [0, 2.7084]]},
+        {name: &#39;60°C&#39;, data: [[100, 4.1699], [90, 4.0871], [80, 4.0611], [70, 3.9296], [60, 3.8511], [50, 3.7435], [40, 3.6108], [30, 3.5173], [20, 3.3694], [10, 3.1728], [0, 2.7045]]}
+    ];
+    // 配置选项
+    var option1 = {
+        title: {
+            text: &#39;discharge SOC-OCV Curve&#39;,
+            left: &#39;center&#39;
+        },
+        tooltip: {
+            trigger: &#39;axis&#39;
+        },
+        legend: {
+            data: soc_ocv_data.map(item =&gt; item.name),
+            top: &#39;80%&#39;
+        },
+        xAxis: {
+            type: &#39;category&#39;,
+            name: &#39;SOC (%)&#39;,
+            boundaryGap: false,
+        },
+        yAxis: {
+            type: &#39;value&#39;,
+            name: &#39;OCV (V)&#39;,
+            min: 2.5,
+            max: 4.2,
+            interval: 0.5,
+        },
+        series: soc_ocv_data.map(item =&gt; ({
+            name: item.name,
+            type: &#39;line&#39;,
+            smooth: true,
+            data: item.data
+        }))
+    };
+    myChart1.setOption(option1);
+&lt;/script&gt;
+&lt;!-- 第二个ECharts图表 --&gt;
+&lt;div id=&#34;chart2&#34; style=&#34;width: 700px; height: 500px;&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;text/javascript&#34;&gt;
+    var chartDom2 = document.getElementById(&#39;chart2&#39;);
+    var myChart2 = echarts.init(chartDom2);
+    // 配置选项
+    var rates = [&#39;0.2C&#39;, &#39;0.33C&#39;, &#39;0.5C&#39;, &#39;1C&#39;, &#39;3C&#39;];
+        var capacity25 = [11.075, 11.039, 10.993, 10.97, 10.923];
+        var energy25 = [40.369, 40.113, 39.79, 39.328, 38.048];
+        var capacity45 = [11.099, 11.095, 11.073, 11.045, 10.876]; // 45°C 的容量数据
+        var energy45 = [40.494, 40.388, 40.195, 39.765, 38.031]; // 45°C 的能量数据
+        // 配置选项
+        var option2 = {
+            title: {
+                text: &#39;Capacity and Energy at Different Rates&#39;,
+                left: &#39;center&#39;
+            },
+            tooltip: {
+                trigger: &#39;axis&#39;
+            },
+            legend: {
+                data: [&#39;25°C Capacity&#39;, &#39;25°C Energy&#39;, &#39;45°C Capacity&#39;, &#39;45°C Energy&#39;],
+                top: &#39;6%&#39;
+            },
+            xAxis: {
+                type: &#39;category&#39;,
+                data: rates,
+                name: &#39;Rate&#39;,
+            },
+            yAxis: [
+                {
+                    type: &#39;value&#39;,
+                    name: &#39;Capacity (Ah)&#39;,
+                    position: &#39;left&#39;,
+                    axisLine: { onZero: false },
+                    min: 10.5,     // 设置 Capacity 的最小值
+                    max: 11.5,   // 设置 Capacity 的最大值
+                    interval: 0.2, // 设置网格间隔
+                },
+                {
+                    type: &#39;value&#39;,
+                    name: &#39;Energy (Wh)&#39;,
+                    position: &#39;right&#39;,
+                    axisLine: { onZero: false },
+                    min: 32,     // 设置 Energy 的最小值
+                    max: 42,     // 设置 Energy 的最大值
+                    interval: 1, // 设置网格间隔
+                }
+            ],
+            series: [
+                {
+                    name: &#39;25°C Capacity&#39;,
+                    type: &#39;line&#39;,
+                    smooth: true,
+                    data: capacity25,
+                    itemStyle: {
+                        color: &#39;#ff7f0e&#39;
+                    },
+                    symbol: &#39;circle&#39;,
+                    symbolSize: 8,
+                },
+                {
+                    name: &#39;25°C Energy&#39;,
+                    type: &#39;line&#39;,
+                    smooth: true,
+                    data: energy25,
+                    yAxisIndex: 1,
+                    itemStyle: {
+                        color: &#39;#1f77b4&#39;
+                    },
+                    symbol: &#39;circle&#39;,
+                    symbolSize: 8,
+                },
+                {
+                    name: &#39;45°C Capacity&#39;,
+                    type: &#39;line&#39;,
+                    smooth: true,
+                    data: capacity45,
+                    itemStyle: {
+                        color: &#39;#2ca02c&#39;
+                    },
+                    symbol: &#39;circle&#39;,
+                    symbolSize: 8,
+                },
+                {
+                    name: &#39;45°C Energy&#39;,
+                    type: &#39;line&#39;,
+                    smooth: true,
+                    data: energy45,
+                    yAxisIndex: 1,
+                    itemStyle: {
+                        color: &#39;#d62728&#39;
+                    },
+                    symbol: &#39;circle&#39;,
+                    symbolSize: 8,
+                }
+            ]
+        };
+    // 使用 setOption 方法来设置图表选项
+    myChart2.setOption(option2);
+&lt;/script&gt;
+&lt;!-- 第三个ECharts图表 --&gt;
+&lt;div id=&#34;chart3&#34; style=&#34;width: 700px; height: 500px;&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;text/javascript&#34;&gt;
+    var chartDom3 = document.getElementById(&#39;chart3&#39;);
+    var myChart3 = echarts.init(chartDom3);
+    // 配置选项
+   var rates = [&#39;10%&#39;, &#39;20%&#39;, &#39;50%&#39;, &#39;80%&#39;, &#39;100%&#39;]; // 横坐标使用SOC并添加百分号
+var DCR0 = [32.1, 18.6, 16.2, 17.7, 24.5]; // 0°C的DCR数据
+var DCR25 = [10.5, 7.9, 6.7, 7.3, 8.6]; // 25°C的DCR数据
+var DCR45 = [7.9, 6.1, 5, 5.3, 5.6]; // 45°C的DCR数据
+// 配置选项
+var option3 = {
+    title: {
+        text: &#39;DCR at Different SOC&#39;,
+        left: &#39;center&#39;
+    },
+    tooltip: {
+        trigger: &#39;axis&#39;
+    },
+    legend: {
+        data: [&#39;0°C DCR&#39;, &#39;25°C DCR&#39;, &#39;45°C DCR&#39;],
+        top: &#39;6%&#39;
+    },
+    xAxis: {
+        type: &#39;category&#39;,
+        data: rates,
+        name: &#39;SOC&#39;,
+    },
+    yAxis: {
+        type: &#39;value&#39;,
+        name: &#39;DCR/mΩ&#39;,
+        min: 0,  // 根据需要设置DCR的最小值
+        max: 35, // 根据需要设置DCR的最大值
+        interval: 5, // 设置网格间隔
+    },
+    series: [
+        {
+            name: &#39;0°C DCR&#39;,
+            type: &#39;line&#39;,
+            smooth: true,
+            data: DCR0,
+            itemStyle: {
+                color: &#39;#ff7f0e&#39; // 0°C DCR 颜色
+            },
+            symbol: &#39;circle&#39;,
+            symbolSize: 8,
+        },
+        {
+            name: &#39;25°C DCR&#39;,
+            type: &#39;line&#39;,
+            smooth: true,
+            data: DCR25,
+            itemStyle: {
+                color: &#39;#1f77b4&#39; // 25°C DCR 颜色
+            },
+            symbol: &#39;circle&#39;,
+            symbolSize: 8,
+        },
+        {
+            name: &#39;45°C DCR&#39;,
+            type: &#39;line&#39;,
+            smooth: true,
+            data: DCR45,
+            itemStyle: {
+                color: &#39;#2ca02c&#39; // 45°C DCR 颜色
+            },
+            symbol: &#39;circle&#39;,
+            symbolSize: 8,
+        }
+    ]
+};
+    // 使用 setOption 方法来设置图表选项
+    myChart3.setOption(option3);
+&lt;/script&gt;
+&lt;!-- 第四个ECharts图表 --&gt;
+&lt;div id=&#34;chart4&#34; style=&#34;width: 700px; height: 500px;&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;text/javascript&#34;&gt;
+    var chartDom4 = document.getElementById(&#39;chart4&#39;);
+    var myChart4 = echarts.init(chartDom4);
+    // 配置选项
+        // ECharts实例
+        var myChart4 = echarts.init(document.getElementById(&#39;chart4&#39;));
+        // 图表配置
+            var cycle = [
+    0, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120, 130, 140, 150,
+    160, 170, 180, 190, 200, 210, 220, 230, 240, 250, 260, 270, 280, 290,
+    300, 310, 320, 330, 340, 350, 360, 370, 380, 390, 400, 410, 420, 430,
+    440, 450, 460, 470, 480, 490, 500, 510, 520, 530, 540, 550, 560, 570,
+    580, 590, 600, 610, 620, 630, 640, 650, 660, 670, 680, 690, 700, 710,
+    720, 730, 740, 750, 760, 770, 780, 790, 800, 810, 820, 830, 840, 850,
+    860, 870, 880, 890, 900, 910, 920, 930, 940, 950, 960, 970, 980, 990,
+    1000, 1010, 1020, 1030, 1040, 1050, 1060, 1070, 1080, 1090, 1100,
+    1110, 1120, 1130, 1140, 1150, 1160, 1170, 1180, 1190, 1200,
+    1210, 1220, 1230, 1240, 1250, 1260, 1270, 1280, 1290, 1300,
+    1310, 1320, 1330, 1340, 1350, 1360, 1370, 1380, 1390, 1400,
+    1410, 1420, 1430, 1440, 1450, 1460, 1470, 1480, 1490, 1500,
+    1510, 1520, 1530, 1540, 1550, 1560, 1570, 1580, 1590, 1600,
+    1610, 1620, 1630, 1640, 1650, 1660, 1670, 1680, 1690, 1700,
+    1710, 1720, 1730, 1740, 1750, 1760, 1770, 1780, 1790, 1800,
+    1810, 1820, 1830, 1840, 1850, 1860, 1870, 1880, 1890, 1900,
+    1910, 1920, 1930, 1940, 1950, 1960, 1970, 1980, 1990, 2000
+    ];         
+    var fastChargeLife = [
+        100.00, 99.66, 99.41, 99.22, 99.01, 98.89, 98.61, 98.41, 98.22, 98.02,
+    97.89, 97.61, 97.38, 97.18, 96.93, 96.68, 96.47, 96.22, 95.93, 95.66,
+    95.38, 95.16, 94.85, 94.57, 94.27, 93.97, 93.77, 93.47, 93.16, 92.87,
+    92.58, 92.44, 92.13, 91.83, 91.53, 91.23, 91.02, 90.70, 90.40, 90.11,
+    89.81, 89.59, 89.27, 88.96, 88.64, 88.32, 88.09, 87.76, 87.47, 87.16,
+    86.85, 86.63, 86.31, 86.01, 85.70, 85.38, 85.19, 84.87, 84.56, 84.26,
+    83.97, 83.77, 83.47, 83.18, 82.90, 82.60, 82.48, 82.18, 81.88, 81.61,
+    81.34, null, null, null, null, null, null, null, null, null, null,
+    null, null, null, null, null, null, null, null, null, null, null, null,
+    null, null, null, null, null, null, null, null, null, null, null, null,
+    null, null, null, null, null, null, null, null, null, null, null, null,
+    null, null, null, null, null, null
+    ];          
+    var normalChargeLife = [
+        100.00, 100.12, 99.84, 99.67, 99.55, 99.43, 99.31, 99.20, 99.09, 98.93,
+    98.79, 98.63, 98.50, 98.36, 98.23, 98.22, 97.97, 97.84, 97.70, 97.63,
+    96.40, 96.24, 96.27, 96.10, 96.01, 95.72, 95.67, 95.62, 95.41, 95.33,
+    95.27, 95.09, 94.78, 94.72, 94.64, 94.47, 94.35, 94.40, 94.12, 93.93,
+    93.76, 93.55, 93.48, 93.28, 93.14, 92.95, 92.83, 92.67, 92.54, 92.40,
+    92.28, 91.96, 91.84, 91.70, 91.53, 91.36, 91.23, 91.08, 90.94, 90.81,
+    90.58, 90.34, 90.22, 89.94, 89.84, 89.59, 89.40, 89.24, 89.09, 88.92,
+    88.76, 88.54, 88.44, 88.22, 88.11, 87.96, 87.76, 87.57, 87.43, 87.27,
+    87.05, 86.83, 86.63, 86.45, 86.30, 86.14, 85.99, 85.79, 85.62, 85.46,
+    85.30, 85.02, 84.88, 84.68, 84.49, 84.44, 84.22, 84.07, 83.92, 83.87,
+    83.54, 83.35, 83.14, 82.96, 82.80, 82.65, 82.48, 82.33, 82.18, 82.00,
+    ];
+    // ECharts实例
+    var myChart4 = echarts.init(document.getElementById(&#39;chart4&#39;));
+    // 图表配置
+    var option4 = {
+        title: {
+            text: &#39;Battery Cycle Life Comparison&#39;
+        },
+        tooltip: {
+            trigger: &#39;axis&#39;
+        },
+        legend: {
+            data: [&#39;Fast Charge&#39;, &#39;1C/1C Cycle&#39;],
+            top: &#39;6%&#39;
+        },
+        xAxis: {
+            type: &#39;category&#39;,
+            name: &#39;Cycle&#39;,
+            data: cycle,
+        },
+        yAxis: {
+            type: &#39;value&#39;,
+            name: &#39;Capacity retention(%)&#39;,
+            min: 80,
+            max: 100,
+            interval: 5
+        },
+        series: [
+            {
+                name: &#39;Fast Charge&#39;,
+                type: &#39;line&#39;,
+                data: fastChargeLife,
+                smooth: true,
+                lineStyle: {
+                    color: &#39;#ff5733&#39;
+                }
+            },
+            {
+                name: &#39;1C/1C Cycle&#39;,
+                type: &#39;line&#39;,
+                data: normalChargeLife,
+                smooth: true,
+                lineStyle: {
+                    color: &#39;#337ab7&#39;
+                }
+            }
+        ]
+    };
+    // 使用 setOption 方法来设置图表选项
+    myChart4.setOption(option4);
+&lt;/script&gt;
+&lt;!-- 第五个ECharts图表 --&gt;
+&lt;div id=&#34;chart5&#34; style=&#34;width: 700px; height: 500px;&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;text/javascript&#34;&gt;
+    var chartDom5 = document.getElementById(&#39;chart5&#39;);
+    var myChart5 = echarts.init(chartDom5);
+    // 配置选项
+        // ECharts实例
+        var myChart5 = echarts.init(document.getElementById(&#39;chart5&#39;));
+        // 图表配置
+  var days = [0, 10, 15, 20, 30, 45, 60, 75, 90, 105, 120, 135, 150, 165, 180];
+var seriesData = [
+    { name: &#39;B1&#39;, data: [100.00, 96.75, null, 95.66, 94.76, null, 92.64, null, 90.70, null, 88.71, null, 86.68, null, 84.24] },
+    { name: &#39;B2&#39;, data: [100.00, 98.59, null, 97.13, 96.42, null, 94.30, 92.45, 90.62, null, null, null, null, null, null] },
+    { name: &#39;B3&#39;, data: [100.00, 99.11, null, 98.19, 97.16, null, 94.29, 90.99, 87.11, null, null, null, null, null, null, null] },
+];
+        // 配置图表的选项
+        var option5 = {
+            title: {
+                text: &#39;100%SOC calendar life @60℃&#39;,
+                left: &#39;center&#39;
+            },
+            tooltip: {
+                trigger: &#39;axis&#39;
+            },
+            legend: {
+            data: seriesData.map(item =&gt; item.name),
+            bottom: &#39;20%&#39;,
+            itemStyle: {
+        fontSize: &#39;3px&#39;,      // 调整字体大小为更小
+        fontWeight: &#39;normal&#39;,
+        lineHeight: &#39;10px&#39;    // 增加行高，调整为合适的值以增加间距
+    }
+},
+            xAxis: {
+                type: &#39;category&#39;,
+                name: &#39;Days&#39;,
+                data: days,
+                boundaryGap: false
+            },
+            yAxis: {
+                type: &#39;value&#39;,
+                name: &#39;Energy recovery retention (%)&#39;,
+                nameGap: 20,
+                min: 60,  // 设置最小值为 60%
+                max: 100,
+                axisLabel: {
+                    formatter: &#39;{value} %&#39;
+                }
+            },
+            dataZoom: [
+                {
+                    type: &#39;slider&#39;,
+                    start: 0,
+                    end: 100
+                },
+                {
+                    type: &#39;inside&#39;
+                }
+            ],
+            series: seriesData.map(item =&gt; ({
+                name: item.name,
+                type: &#39;line&#39;,
+                data: item.data,
+                smooth: true,
+                symbol: &#39;circle&#39;,
+                symbolSize: 8,
+                lineStyle: {
+                    width: 2
+                },
+                connectNulls: true  // 处理空数据，使曲线连续
+            }))
+        };
+        // 自适应窗口大小变化
+        // window.addEventListener(&#39;resize&#39;, function() {
+        //     myChart.resize();
+        // });
+    // 使用 setOption 方法来设置图表选项
+    myChart5.setOption(option5);
+&lt;/script&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://fayeholye.github.io/sococv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fayeholye.github.io/sococv/</guid>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;!-- saved from url=(0013)about:internet --&gt;
+&lt;html lang=&#39;en&#39;&gt;
+&lt;head&gt;
+  &lt;meta http-equiv=&#34;X-UA-Compatible&#34; content=&#34;IE=edge&#34; /&gt;
+  &lt;meta charset=&#34;utf-8&#34; /&gt;
+  &lt;title&gt;ECharts&lt;/title&gt;
+  &lt;!-- 引入刚刚下载的 ECharts 文件 --&gt;
+  &lt;script src=&#39;echarts.min.js&#39;&gt;&lt;/script&gt;
+  &lt;script src=&#39;jquery-3.6.3.min.js&#39;&gt;&lt;/script&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;!-- 为 ECharts 准备一个定义了宽高的 DOM --&gt;
+&lt;div id=&#34;main&#34; style=&#34;width: 700px;height:500px;&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;text/javascript&#34;&gt;
+  // 基于准备好的dom，初始化echarts实例
+  var chartDom2 = document.getElementById(&#39;main&#39;);
+  var myChart2 = echarts.init(chartDom2);
+  var option2;
+
+  var soc_ocv_data = [
+    {name: &#39;-30°C&#39;, data: [[100,4.1847],	[90,4.0795],	[80,4.0587],	[70,4.0132],	[60,3.9163],	[50,3.8488],	[40,3.7761],	[30,3.6882],	[20,3.6131],	[10,3.5532],	[0,3.4767],]},
+    {name: &#39;-20°C&#39;, data: [[100,4.1862],	[90,4.0848],	[80,4.0681],	[70,3.9755],	[60,3.8753],	[50,3.8042],	[40,3.7121],	[30,3.6209],	[20,3.5281],	[10,3.4013],	[0,3.2153],]},
+    {name: &#39;-10°C&#39;, data: [[100,4.1858],	[90,4.0852],	[80,4.07],	[70,3.9746],	[60,3.8693],	[50,3.7975],	[40,3.7019],	[30,3.5924],	[20,3.5032],	[10,3.3534],	[0,3.1625],]},
+    {name: &#39;0°C&#39;, data: [[100,4.1852],	[90,4.0859],	[80,4.0689],	[70,3.9636],	[60,3.861],	[50,3.7821],	[40,3.6789],	[30,3.5562],	[20,3.4636],	[10,3.2898],	[0,3.0754],]},
+    {name: &#39;10°C&#39;, data: [[100,4.1825],	[90,4.0874],	[80,4.0653],	[70,3.9509],	[60,3.85],	[50,3.7643],	[40,3.6512],	[30,3.538],	[20,3.429],	[10,3.2333],	[0,2.9263],]},
+    {name: &#39;25°C&#39;, data: [[100,4.1758],	[90,4.0878],	[80,4.061],	[70,3.9352],	[60,3.848],	[50,3.75],	[40,3.6195],	[30,3.5231],	[20,3.3843],	[10,3.1826],	[0,2.7084],]},
+    {name: &#39;45°C&#39;, data: [[100,4.1758],	[90,4.0878],	[80,4.061],	[70,3.9352],	[60,3.848],	[50,3.75],	[40,3.6195],	[30,3.5231],	[20,3.3843],	[10,3.1826],	[0,2.7084],]},
+    {name: &#39;60°C&#39;, data: [[100,4.1699],	[90,4.0871],	[80,4.0611],	[70,3.9296],	[60,3.8511],	[50,3.7435],	[40,3.6108],	[30,3.5173],	[20,3.3694],	[10,3.1728],	[0,2.7045],]},
+    // {name: &#39;10°C&#39;, data: [[100, 4.1824], [95, 4.0874], [90, 4.0653], [85, 3.9509], [80, 3.8500], [75, 3.7643], [70, 3.6512], [65, 3.4290], [60, 3.2333], [55, 2.9262]]},
+];
+
+// 配置选项
+var option2 = {
+    title: {
+        text: &#39;SOC-OCV Curve&#39;,
+        left: &#39;center&#39;
+    },
+    tooltip: {
+        trigger: &#39;axis&#39;
+    },
+    legend: {
+        data: soc_ocv_data.map(item =&gt; item.name),
+        top: &#39;80%&#39;
+    },
+    xAxis: {
+        type: &#39;category&#39;,
+        name: &#39;SOC (%)&#39;,
+        boundaryGap: false,
+    },
+    yAxis: {
+        type: &#39;value&#39;,
+        name: &#39;OCV (V)&#39;,
+        min: 2.5,
+        max: 4.2,
+        interval: 0.5,
+    },
+    series: soc_ocv_data.map(item =&gt; ({
+        name: item.name,
+        type: &#39;line&#39;,
+        smooth: true,
+        data: item.data
+    }))
+};
+  option2 &amp;&amp; myChart2.setoption2(option2);
+
+&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;</description>
+    </item>
+    
+    
+  </channel>
+</rss>
